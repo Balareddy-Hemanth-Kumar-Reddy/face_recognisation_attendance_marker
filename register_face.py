@@ -23,7 +23,7 @@ except Exception as e:
 name = input("Enter teacher name: ")
 
 # Add teacher to database
-cursor.execute("INSERT INTO people (name) VALUES (%s) ON CONFLICT (name) DO NOTHING", (name,))
+cursor.execute("INSERT INTO person (name) VALUES (%s) ON CONFLICT (name) DO NOTHING", (name,))
 conn.commit()
 conn.close()
 
