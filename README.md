@@ -3,7 +3,7 @@
 
 # Face Recognition Attendance System
 
-## 📌 Overview
+##  Overview
 This project is a **Face Recognition–based Attendance System** developed using **Python, OpenCV, and PostgreSQL**.  
 It automatically records attendance by identifying a person’s face through a camera and applying **time-based rules**.
 
@@ -11,7 +11,7 @@ The system reduces manual effort, prevents proxy attendance, and ensures accurat
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 1. The host (admin) registers people by storing their face data.
 2. A live camera continuously captures faces.
 3. The system matches detected faces with registered faces.
@@ -23,7 +23,7 @@ The system reduces manual effort, prevents proxy attendance, and ensures accurat
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - Face recognition–based automatic attendance
 - Time-based attendance rules (Present / Late / Absent)
 - Automatic marking of absentees
@@ -32,13 +32,13 @@ The system reduces manual effort, prevents proxy attendance, and ensures accurat
 
 ---
 
-## 🏫 Use Cases
+##  Use Cases
 - Schools and colleges  
 - Offices and organizations  
 - Training institutes  
 
 ---
 
-## 📄 Project Summary
+##  Project Summary
 This system provides a **contactless, reliable, and automated attendance solution** using computer vision and database technologies.
 
