@@ -1,4 +1,5 @@
-<img width="1024" height="1536" alt="Face attendance system overview" src="https://github.com/user-attachments/assets/09bcda6c-2abb-4c40-869b-c508938f978f" />
+<img width="1024" height="1536" alt="face_recognise_flow_chart" src="https://github.com/user-attachments/assets/35e1c452-23a5-4c48-b2a4-562a8983b781" />
+
 
 
 # Face Recognition Attendance System
