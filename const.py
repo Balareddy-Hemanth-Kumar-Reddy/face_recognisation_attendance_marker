@@ -1,0 +1,1 @@
+CONST_DATABASE_URL = "postgres://postgres:postgres@localhost:5432/attendance_db"
